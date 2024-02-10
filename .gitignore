@@ -1,2 +1,5 @@
 _site/
-
+*~undo-tree~
+*.DS_Store
+Gemfile.lock
+.sass-cache/
