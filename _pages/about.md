@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About my research"
-excerpt: "About me"
+excerpt: "About my research"
 author_profile: true
 redirect_from:
   - /about/
@@ -15,7 +15,5 @@ theory](https://en.wikipedia.org/wiki/Systems_theory),
 [optimization](https://en.wikipedia.org/wiki/Mathematical_optimization), and
 [formal methods](https://en.wikipedia.org/wiki/Formal_methods).
 
-See my [research
-statement](../files/Abhishek_Singh_Research_Statement_2023.pdf),
-[CV](../files/Abhishek_Singh_CV_2023.pdf), and [publications](publications) to
-learn about my research.
+See my [CV](../files/Abhishek_Singh_CV_2024.pdf) and
+[publications](publications) to learn about my research.
